@@ -1,12 +1,6 @@
-# 🖥️ Born2beroot
+# 🖥️ ABOUT Born2beroot
 
-J'ai obtenu un score de 120% dans ce projet.
-
-## 💡 Remerciements
-
-Ce projet a été réalisé avec l'aide du tutoriel Born2beroot de [gemartin99's Born2beroot-Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md).
-
-
+This system administration project focuses on setting up a secure virtual machine. It covers key topics such as virtualization, partitioning, LVM, command-line tools, SSH, and system security measures like sudo, firewalls, and password policies. The project repository includes a script for automated tasks and the virtual machine signature.
 
 ## - Born2beroot Evaluation commands
 
@@ -54,3 +48,7 @@ Run the script.
 ### - Born2beroot project tutorial 🖥
 
 [HERE](https://github.com/gemartin99/Born2beroot-Tutorial)
+
+## 💡 Acknowledgments
+
+I was able to complete this project by following the [gemartin99's Born2beroot-Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md).
