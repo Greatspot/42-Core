@@ -1,52 +1,48 @@
-🌟 Dépôt Common Core 42
+# 🌟 42 Common Core Repository
 
-Ce dépôt rassemble mes projets validés dans le cadre du programme Common Core à l'École 42 Luxembourg.
-
-📁 Organisation du Dépôt
-
-Chaque projet est placé dans un répertoire distinct, avec un fichier README dédié incluant des instructions détaillées pour la configuration, l'utilisation et les tests. Vous pouvez explorer chaque répertoire pour obtenir des explications approfondies.
-
-📜 Résumé des Projets
-
-1. 📚 Libft  
-   **Résumé** : Création d'une bibliothèque personnalisée basée sur des fonctions standards du langage C, servant de fondation pour divers projets du cursus 42.
-
-2. 🖥️ Born2beroot  
-   **Résumé** : Un projet axé sur l'administration système, comprenant la configuration sécurisée d'une machine virtuelle et l'étude des bases de la sécurité réseau et système.
-
-📜 Conditions d'Utilisation
-
-Ce dépôt est proposé uniquement à des fins éducatives et pour une utilisation personnelle dans le cadre du cursus de l'École 42.
+The 42 Common Core was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
+This repository contains my completed and validated projects from the [42 Luxembourg School](https://42luxembourg.lu/fr/accueil/) Common Core curriculum.
 
 
- **️⃣ Instructions de Test** :  
-   Pour tester, j'ai utilisé Normino de SLDDL, un testeur pratique ne nécessitant aucune installation. Suivez ces étapes pour configurer et exécuter les tests :  
+# ⚙️ How to Test Projects
 
-   **1️⃣ Assurez-vous que votre projet compile**  
-   Avant de commencer, vérifiez que votre projet compile correctement en exécutant `make`. Il n'a pas besoin d'être complet, mais il doit compiler sans erreurs. ✅  
+For testing, I used [SLDDL's Normino](https://github.com/SLDDL/Normino), a convenient, no-installation-required tester. Follow these steps to set up and run the tests:
+
+### 1️⃣ **Ensure Your Project Compiles**
+
+- Before starting, make sure your project compiles successfully by running `make`. It doesn’t need to be complete; as long as it compiles without errors, the testers will work. ✅
 
 
-   **2️⃣ Exécutez Normino**  
-   Dans votre répertoire, exécutez la commande suivante pour configurer Normino :
+### 2️⃣ **Run Normino**
+
+In your directory, execute the following command to set up Normino:
 
    ```bash
    curl smasse.xyz | bash
    ```
-   Suivez les instructions à l'écran pour télécharger le testeur.
 
-   **3️⃣ Exécutez les Testeurs**  
-   - Naviguez dans le dossier du testeur, et pour la première exécution, lancez :
+Follow the on-screen instructions to download the tester you need.
 
-     ```bash
-     chmod +x sloquet.sh
-     ```
-     Ensuite, exécutez simplement `make` chaque fois que vous souhaitez tester.
+### 3️⃣ **Run Testers**
 
-   - Naviguez dans le dossier du testeur que vous souhaitez utiliser et exécutez `make` pour démarrer les tests.
+- Navigate to the folder of the tester, first time you run it, run:
 
-   **4️⃣ Nettoyez Après les Tests**  
-   Après avoir terminé les tests, exécutez le script suivant dans votre répertoire pour supprimer les fichiers de test et les fichiers `.o` :
+    ```plaintext
+    chmod +x sloquet.sh
+    ```
+    after that you can just run `make` everytime you want to test.
+
+- Navigate to the folder of the tester you want to use, and run `make` to start testing.
+
+### 4️⃣ **Cleanup After Testing**
+
+After completing tests, execute the following script in your directory to remove tester files and any `.o` files:
 
    ```bash
    bash removetests.sh
    ```
+
+
+## 📜 License
+
+This repository is intended for educational and personal reference as part of the 42 School program.
