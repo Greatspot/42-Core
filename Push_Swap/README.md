@@ -90,6 +90,11 @@ Copy the push_swap binary to the tester directory:
 cp ../push_swap .
 ```
 
+#### Push Swap Visualizer
+```bash
+https://github.com/Greatspot/push_swap_visualizer
+```
+
 #### MAKEFILE RULES
 
 `make` - Compile push_swap **mandatory** functions.
