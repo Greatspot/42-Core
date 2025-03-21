@@ -1,4 +1,4 @@
-![School 42 Banner](https://github.com/Greatspot/Greatspot/tree/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png)
+![School 42 Banner](https://github.com/Greatspot/Greatspot/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png)
 
 # 🌟 42 Common Core Repository
 
@@ -28,7 +28,7 @@ This repository contains my completed and validated projects from the [42 Luxemb
 |✨  ||||||
 |04| <a href="https://github.com/Greatspot/42-Core/tree/main/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |% ✅| |
 |04| <a href="https://github.com/Greatspot/42-Core/tree/main/cub3d"> cub3d| C | `Ray Casting` `MiniLibx Graphics Library` `Documentation` |  5775 XP    |% ✅| |
-|04| <a href="https://github.com/Greatspot/42-Core/tree/main/CPP">CPP</a> | C++ | `Object Oriented Programming` |  10042 XP    |✅| |
+|04| <a href="https://github.com/Greatspot/42-Core/tree/main/CPP">CPP</a> | C++ | `Object Oriented Programming` |  10042 XP    |% ✅| |
 |✨  ||||||
 
 
