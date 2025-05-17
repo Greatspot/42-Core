@@ -23,7 +23,7 @@ This repository contains my completed and validated projects from the [42 Luxemb
 |02| <a href="https://github.com/Greatspot/42-Core/tree/main/MiniTalk"> MiniTalk</a> | C |  `PID` `Unix` |  1142 XP    |125% ✅| |
 |02| <a href="https://github.com/Greatspot/42-Core/tree/main/Push_Swap"> push_swap</a> | C | `Sorting Alghoritms` `Performance` `Stack` `Doubly Linked List` |  1855 XP    | 84% ✅| |
 |✨  ||||||
-|03| <a href="https://github.com/Greatspot/42-Core/tree/main/minishell">Minishell</a>| C | `Processes` `Shell Redirection` `Pipe` `Signals` `Unix` `Parsing` | 2814 XP    |% ✅| |
+|03| <a href="https://github.com/Greatspot/42-Core/tree/main/minishell">Minishell</a>| C | `Processes` `Shell Redirection` `Pipe` `Signals` `Unix` `Parsing` | 2814 XP    |124% ✅| |
 |03| <a href="https://github.com/Greatspot/42-Core/tree/main/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Parallelism` `Multithreading` `Multiprocessing` |  3360 XP    |% ✅| |
 |✨  ||||||
 |04| <a href="https://github.com/Greatspot/42-Core/tree/main/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |% ✅| |
